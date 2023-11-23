@@ -1,6 +1,6 @@
 # Calculadora React Native
 ## Sobre o projeto
-Calculadora construído em React Native com Expo. A aplicação conta com tema light e dark, e faz parte de um estudo pessoal em React Native.
+Calculadora construído em React Native com Expo. A aplicação conta com tema light e dark
 ## Screenshots
 * **Tema Light**
 
@@ -21,7 +21,5 @@ npm install
 ````
 * Os arquivos de dependências serão baixados!
 * Após o download das dependências, baixe o Expo no seu celular e escaneie o QR Code que aparecerá no seu terminal ou execute por meio de um emulador.
-#### Contato:
-E-mail: brunomart97@hotmail.com
 
 **Obrigado!**
