@@ -13,7 +13,7 @@ Calculadora construído em React Native com Expo. A aplicação conta com tema l
 ## Como usar?
 * Clone o repositório:
 ````
-https://github.com/brunomart97/CalculadoraReactNative.git
+https://github.com/AlanMML/CalculadoraReactNative.git
 ````
 * Navegue até a pasta do projeto via terminal e execute:
 ````
